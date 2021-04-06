@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/HTML/HTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/JS/javascript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapbien/html/baitapbien1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapbien/html/baitapbien2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapbien/html/baitapbien3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapbien/js/baitapbien1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapbien/js/baitapbien2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -31,6 +34,13 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/vuong-van-tu/webstorm" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1qjwlZefSphuzqBaP28Rf6jULpL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/baitapbien/html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -53,9 +63,22 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webstorm\baitapbien\html" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\webstorm\bienvakieudulieu\html" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="baitapbien.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webstorm/baitapbien/baitapbien.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.baitapbien.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +93,10 @@
       <workItem from="1617634439344" duration="3414000" />
       <workItem from="1617670561972" duration="6653000" />
       <workItem from="1617680058726" duration="71000" />
-      <workItem from="1617684193539" duration="6601000" />
+      <workItem from="1617684193539" duration="10896000" />
+      <workItem from="1617721107143" duration="52000" />
+      <workItem from="1617721169553" duration="256000" />
+      <workItem from="1617721437981" duration="1236000" />
     </task>
     <servers />
   </component>
