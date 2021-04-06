@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bienvakieudulieu/html/baithuchanh1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bienvakieudulieu/js/thuchanh1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webstorm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lich.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Market Research Survey.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1javascript.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai2thuchanh.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/covua.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/formcoban.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/formcoban2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/formdaodiendangki.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/formthuchanh.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablesimple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobancoban.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobangcoban.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thoikhoabieu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thoikhoabieu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuchanhjava1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuchanhjava2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuchanhjava3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuchanhjava4.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/HTML/HTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/JS/javascript.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -93,7 +70,7 @@
       <workItem from="1617634439344" duration="3414000" />
       <workItem from="1617670561972" duration="6653000" />
       <workItem from="1617680058726" duration="71000" />
-      <workItem from="1617684193539" duration="3630000" />
+      <workItem from="1617684193539" duration="6601000" />
     </task>
     <servers />
   </component>
