@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bienvakieudulieu/html/baithuchanh1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bienvakieudulieu/js/thuchanh1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webstorm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lich.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Market Research Survey.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai2thuchanh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covua.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/formcoban.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/formcoban2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/formdaodiendangki.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/formthuchanh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tablesimple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobancoban.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taobangcoban.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoikhoabieu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoikhoabieu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanhjava1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanhjava2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanhjava3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanhjava4.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qjwlZefSphuzqBaP28Rf6jULpL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webstorm\bienvakieudulieu\html" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="" />
+      <created>1617606458628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617606458628</updated>
+      <workItem from="1617606459817" duration="10177000" />
+      <workItem from="1617632640942" duration="1593000" />
+      <workItem from="1617634439344" duration="3414000" />
+      <workItem from="1617670561972" duration="6653000" />
+      <workItem from="1617680058726" duration="71000" />
+      <workItem from="1617684193539" duration="3630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
