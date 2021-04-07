@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ứng dụng chuyển tiền tệ</title>
+    <script src="../js/tiente.js"></script>
+</head>
+<body>
+<form>
+        <table id="test">
+            <tr>
+                <th>Amount</th>
+                <th>Form Currency</th>
+                <th>To Currency</th>
+                <td></td>
+            </tr>
+            <tr>
+                <td ><input type="text" value="" id="nhap"></td>
+                <td>
+                    <select id="benA">
+                        <option value="VNĐ">ViệtNam</option>
+                        <option value="USD">USD</option>
+                    </select>
+                </td>
+                <td>
+                    <select id="benB">
+                        <option value="USD">USD</option>
+                        <option value="VNĐ">VNĐ</option>
+                    </select>
+                </td>
+                <td>
+                    <input type="button" value="Convert" onclick="convert()">
+                </td>
+                <td><label><input style="float: right;width: 290px" id="output" type="number" disabled></label></td>
+            </tr>
+
+        </table>
+</form>
+</body>
+</html>

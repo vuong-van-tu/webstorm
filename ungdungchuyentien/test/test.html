@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <script>
+        function check(){
+            if(document.getElementById('check').checked==true)
+                document.getElementById('submit').disabled = false;
+
+            else
+                document.getElementById('submit').disabled = true;
+
+        }
+
+    </script>
+</head>
+<body>
+    <input type="checkbox" id="check"  onclick="check()"> Sáng
+    <br/>
+    <input type="button"  value="Gửi" disabled id="submit">
+</body>
+</html>
