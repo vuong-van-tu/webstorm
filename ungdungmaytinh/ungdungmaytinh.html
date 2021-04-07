@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ứng dụng máy tính</title>
+    <script src="ungdungmaytinh.js"></script>
+</head>
+<body >
+        <input id="value1" type="text" value="" placeholder="Đây là anh Như Anh" >
+        <input id="value2" type="text" value="" >
+        <br/>
+        <select id="toanhoc">
+            <option value="tong"> Addtion(+)</option>
+            <option value="hieu"> Subtraction(-)</option>
+            <option value="tich"> Mutiplication(X)</option>
+            <option value="thuong"> Division(/)</option>
+
+        </select>
+
+        <br/>
+        Result: <input type="text" value="" id="ketqua" >
+        <button onclick="toanhoc()" >Tính</button>
+        <button onclick="reset()">Reset</button>
+
+</body>
+</html>

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ungdungchuyentien/css/tiente.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ungdungchuyentien/html/tiente.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ungdungchuyentien/js/tiente.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ungdungchuyentien/test/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ungdungchuyentien/test/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ungdungmaytinh/ungdungmaytinh.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ungdungmaytinh/ungdungmaytinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ungdungmaytinh/ungdungmaytinh.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -97,7 +95,8 @@
       <workItem from="1617721107143" duration="52000" />
       <workItem from="1617721169553" duration="256000" />
       <workItem from="1617721437981" duration="3991000" />
-      <workItem from="1617757054974" duration="7788000" />
+      <workItem from="1617757054974" duration="12983000" />
+      <workItem from="1617777180716" duration="3249000" />
     </task>
     <servers />
   </component>
