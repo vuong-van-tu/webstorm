@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ungdungmaytinh/ungdungmaytinh.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ungdungmaytinh/ungdungmaytinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ungdungmaytinh/ungdungmaytinh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namnhuan/namnhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namnhuan/namnhuan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ungdungmaytinh/ungdungmaytinh.js" beforeDir="false" afterPath="$PROJECT_DIR$/ungdungmaytinh/ungdungmaytinh.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -58,6 +59,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -96,7 +98,8 @@
       <workItem from="1617721169553" duration="256000" />
       <workItem from="1617721437981" duration="3991000" />
       <workItem from="1617757054974" duration="12983000" />
-      <workItem from="1617777180716" duration="3249000" />
+      <workItem from="1617777180716" duration="5134000" />
+      <workItem from="1617785350453" duration="981000" />
     </task>
     <servers />
   </component>
