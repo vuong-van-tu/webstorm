@@ -2,14 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/goodfastcheap/goodfastcheap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goodfastcheap/goodfastcheap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanh/gamepuzzegame/game puzzle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tryhardif1/try1/try1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tryhardif1/try1/try1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif/bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif/bai1/bai1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif/bai2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif/bai3/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif/bai4/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif/bai5/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif/bai6/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif/bai7/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai10/bai10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai11/bai11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai12/bai12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai3/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai4/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai5/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai6/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai7/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai8/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai9/bai9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thuchanh/gamepuzzegame/gamepuzze.html" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh/gamepuzzegame/gamepuzze.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuchanh/gamepuzzegame/gamepuzze.js" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh/gamepuzzegame/gamepuzze.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +34,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -107,7 +122,10 @@
       <workItem from="1617843874348" duration="12004000" />
       <workItem from="1617863569649" duration="12706000" />
       <workItem from="1617931406221" duration="11719000" />
-      <workItem from="1617950031077" duration="2584000" />
+      <workItem from="1617950031077" duration="9822000" />
+      <workItem from="1618115037294" duration="5694000" />
+      <workItem from="1618126269330" duration="5053000" />
+      <workItem from="1618156978470" duration="1385000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script>
+        alert("Phương trình bậc 2 có dạng : a(x^2)+bx+c=0");
+        let a =+ prompt("Nhập a = ");
+        let b =+ prompt("Nhập b = ");
+        let c =+ prompt("Nhập c = ");
+        let x1;
+        let x2;
+        let delta=b*b-4*a*c;
+        if(a==0){
+            alert("Phương trình không phải phương trình bậc 2!");
+        }else if (delta==0){
+            x1=x2=-b/2*a;
+            alert("Phương trình có nghiệm kép x1=x2= "+x1);
+        }else if (delta<0){
+            alert("Phương trình vô nghiệm!");
+        } else{
+            x1= (-b+Math.sqrt(delta))/2* a;
+            x2= (-b-Math.sqrt(delta))/2* a;
+            alert("x1="+x1);
+            alert("x2="+x2);
+        }
+        // if (a==0){
+        //     alert("Phương trình không phải phương trình bậc 2!");
+        // } else {
+        // switch (true){
+        //     case delta=0:
+        //         alert("Phương trình có nghiệm kép x1=x2= "+x1);
+        //         break;
+        //     case delta<0:
+        //         alert("Phương trình vô nghiệm!");
+        //         break;
+        //     case delta>0:
+        //         x1= (-b+Math.sqrt(delta))/2* a;
+        //         x2= (-b-Math.sqrt(delta))/2* a;
+        //         alert("x1="+x1);
+        //         alert("x2="+x2);
+        //         break;
+        //   }
+        // }
+
+
+
+    </script>
+</body>
+</html>

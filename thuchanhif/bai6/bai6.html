@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai6</title>
+</head>
+<body>
+<script>
+    let a = prompt("Số sản phẩm bán được = ");
+    let b= prompt("Gía của sản phẩm = ");
+    let dt= a*b;
+    if (dt>=100){
+        let hoahong=dt*5/100;
+        alert("Tổng doanh số của cửa hàng là : "+dt+" Triệu");
+        alert("Hoa hồng nhận được là "+hoahong+" Triệu");
+    }else if (dt>=300){
+        let hoahong=dt*10/100;
+        alert("Tổng doanh số của cửa hàng là : "+dt+" Triệu");
+        alert("Hoa hồng nhận được là "+hoahong+" Triệu");
+    }else if (dt>=800) {
+        let hoahong = dt * 20 / 100;
+        alert("Tổng doanh số của cửa hàng là : " + dt + " Triệu");
+        alert("Hoa hồng nhận được là " + hoahong + " Triệu");
+    }
+
+</script>
+</body>
+</html>

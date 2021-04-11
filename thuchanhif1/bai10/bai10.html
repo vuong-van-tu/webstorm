@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai10</title>
+</head>
+<body>
+<script>
+    let a =+ prompt("Nhập số kWh tiêu thụ : ");
+    if (a<=50){
+        let kt1 = a * 1510;
+        alert("Số tiền điện là "+kt1);
+    }else if (a<=100){
+        let kt2 = 50*1510+(a-50)*1561;
+        alert("Số tiền điện là "+kt2);
+    }else if (a<=200){
+        let kt3 = 50*1510+50*1561+(a-100)*1813;
+        alert("Số tiền điện là "+kt3);
+    }else if (a<=300){
+        let kt4 = 50*1510+50*1561+100*1813+(a-200)*2282;
+        alert("Số tiền điện là "+kt4);
+    }else if (a<=400){
+        let kt5=50*1510+50*1561+100*1813+100*2282+(a-300)*2834;
+        alert("Số tiền điện là "+kt5);
+    }else {
+        let kt6=50*1510+50*1561+100*1813+100*2282+100*2834+(a-400)*2927;
+        alert("Số tiền điện là "+kt6);
+    }
+</script>
+</body>
+</html>
