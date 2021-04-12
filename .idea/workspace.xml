@@ -2,29 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif/bai1/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif/bai1/bai1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif/bai2/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif/bai3/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif/bai4/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif/bai5/bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif/bai6/bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif/bai7/bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai1/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai10/bai10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai11/bai11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai12/bai12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai2/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai3/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai4/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai5/bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai6/bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai7/bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai8/bai8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanhif1/bai9/bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/bang_cuu_chuong/bang_cuu_chuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/so_nguyen_to/so_nguyen_to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/dowhile/dowhile1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/for/thuchanh/thuchanh2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/for/thuchanh/thuchanhfor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/for/thuchanh1/thuchanh1/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/while/while1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/while/while2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuchanh/gamepuzzegame/gamepuzze.html" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh/gamepuzzegame/gamepuzze.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +114,9 @@
       <workItem from="1617950031077" duration="9822000" />
       <workItem from="1618115037294" duration="5694000" />
       <workItem from="1618126269330" duration="5053000" />
-      <workItem from="1618156978470" duration="1385000" />
+      <workItem from="1618156978470" duration="2136000" />
+      <workItem from="1618190171673" duration="5605000" />
+      <workItem from="1618209591481" duration="3990000" />
     </task>
     <servers />
   </component>
@@ -143,5 +134,17 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vonglap/bai_tap_vong_lap/so_nguyen_to/so_nguyen_to.html</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
