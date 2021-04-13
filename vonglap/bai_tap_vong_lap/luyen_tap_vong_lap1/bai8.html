@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai8</title>
+</head>
+<body>
+<button onclick="play()">Chơi</button>
+<button>Chơi lại</button>
+<script>
+    let min=+ prompt("Nhập giá trị nhỏ nhất :");
+    let max=+ prompt("Nhập giá trị lớn nhất :");
+
+function play() {
+
+    for (let i = 0; i < 3; i++) {
+        let a = Math.round(Math.random() * ((max - min) + 1) + min);
+        let nguoi_dung_doan = prompt("Đoán số : ");
+        if (nguoi_dung_doan == a) {
+            document.write("Số ngẫu nhiên bằng = " + a);
+            document.write("<br/>");
+            document.write("You win!");
+            document.write("<br/>");
+        } else if (nguoi_dung_doan < a) {
+            document.write("Số người đoán nhỏ hơn a ="+a+"... You lose");
+            document.write("<br/>");
+        } else {
+            document.write("Số người đoán lớn hơn a =" +a +" ...You lose");
+            document.write("<br/>");
+        }
+    }
+}
+</script>
+</body>
+</html>

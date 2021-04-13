@@ -2,17 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>bai4</title>
 </head>
 <body>
-<script>
+<SCRIPT>
     let a=0,b=1,temp;
     for(let i = 1; i<20;i++){
         console.log(a);
         temp=a+b;
         a=b;
         b=temp;
+        if (a%5==0){
+            alert("Số đầu tiên chia hết cho 5 là : "+a);
+            break;
+        }
     }
-</script>
+
+</SCRIPT>
 </body>
 </html>
