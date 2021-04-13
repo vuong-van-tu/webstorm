@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>so_nguyen_to</title>
+</head>
+<body>
+<script>
+
+    function check(num){
+        if(num < 2){
+            return false;
+        }
+        for(let i=2 ;i<num ;i++){
+            if(num%i==0){
+                return false;
+            }
+        }
+        return true;
+    };
+    let sum = 0;
+    let number = 0;
+    let count =0;
+    let sl = +prompt("nhập số lần vào đây");
+    while (count < sl){
+        if(check(number)==true){
+            document.write(number);
+            document.write("<br/>");
+            count++;
+            sum += number;
+        }
+        number++;
+    }
+    document.write("tổng là")
+    document.write(sum);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // function isPrime(num){
+    //     if(num<2)
+    //         return false;
+    //     for(i=2;i<num;i++){
+    //         if(num%i==0)
+    //             return false;
+    //     }
+    //     return true;
+    // }
+    //
+    //
+    // let count=0;
+    // let number=1;
+    // let sum=0;
+    // let quan=+prompt("Hay nhap so luong: ");
+    // document.write("Danh sach cac so chia het cho 2: <br>");
+    // while(count<quan){
+    //     if(isPrime(number)==true){
+    //         count++;
+    //         sum=sum+number;//sum+=number;
+    //         document.write(number+" ");
+    //     }
+    //     number++;
+    // }
+    // document.write("<br>Tong cac so la: "+sum);
+</script>
+</body>
+</html>
