@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai1</title>
+</head>
+<body>
+<SCRIPT>
+    let n = +prompt("Nhập n: ");
+    let a=0,b=1,temp;
+    let tong=0;
+    for (let i=1;i<=n;i++){
+        temp = a + b;
+        a=b;
+        b=temp;
+        tong +=a;
+    }
+    alert("Tổng  "+ n +" số đầu ="+tong);
+</SCRIPT>
+</body>
+</html>

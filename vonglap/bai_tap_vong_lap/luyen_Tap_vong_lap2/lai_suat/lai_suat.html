@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>lai_suat</title>
+</head>
+<body>
+<script>
+    while (true) {
+        let sotienbandau = +prompt("nhập số tiền gửi");
+        let tienlai;
+        let laixuat = +prompt("Nhập lãi xuất");
+        let sothang = +prompt("nhập số tháng");
+        let sotiencoduoc;
+        if(sotienbandau == 0){
+            break;
+        }else {
+            for (let i = 1; i <= sothang; i++) {
+                tienlai = laixuat * sotienbandau
+                sotiencoduoc = sotienbandau + tienlai;
+                sotienbandau = sotiencoduoc;
+
+            }
+            alert(sotiencoduoc);
+        }
+    }
+
+
+</script>
+</body>
+</html>

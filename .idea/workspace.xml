@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_Tap_vong_lap2/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_Tap_vong_lap2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_Tap_vong_lap2/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_Tap_vong_lap2/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_Tap_vong_lap2/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_Tap_vong_lap2/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_Tap_vong_lap2/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_Tap_vong_lap2/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_Tap_vong_lap2/lai_suat/lai_suat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/vonglap/bai_tap_vong_lap/luyen_tap_vong_lap1/bai3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +116,7 @@
       <workItem from="1618190171673" duration="5605000" />
       <workItem from="1618209591481" duration="3990000" />
       <workItem from="1618238626916" duration="3056000" />
-      <workItem from="1618275810299" duration="2405000" />
+      <workItem from="1618275810299" duration="17203000" />
     </task>
     <servers />
   </component>
