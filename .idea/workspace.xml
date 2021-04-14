@@ -2,17 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mang/test/test1/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/test/test1/test3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/test/test1/test4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/test/test1/test5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/bai_tap/Faking_Textarea_on_Typing/Faking Textarea on Typing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/bai_tap/bai_tap_su_dung_cac_ham/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/bai_tap/bai_tap_su_dung_cac_ham/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/bai_tap/bai_tap_su_dung_cac_ham/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/bai_tap/bai_tap_tu_dien/bai_tap_tu_dien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/bai_tap/bai_tap_tu_dien/tudien.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/bai_tap/tic_tac_toe/js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/bai_tap/tic_tac_toe/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/form_Tao_bang/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mang/form_Tao_bang/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_vong_lap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testtudien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tudien11.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mang/test/test1/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang/test/test1/test1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/mang/bai_tap/tic_tac_toe/js.html" />
+    </disable_hints>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -114,7 +127,10 @@
       <workItem from="1618238626916" duration="3056000" />
       <workItem from="1618275810299" duration="18718000" />
       <workItem from="1618302161400" duration="3809000" />
-      <workItem from="1618330361481" duration="1711000" />
+      <workItem from="1618330361481" duration="2070000" />
+      <workItem from="1618365117460" duration="166000" />
+      <workItem from="1618365455860" duration="18926000" />
+      <workItem from="1618409490768" duration="4861000" />
     </task>
     <servers />
   </component>
@@ -140,6 +156,11 @@
           <url>file://$PROJECT_DIR$/vonglap/bai_tap_vong_lap/so_nguyen_to/so_nguyen_to.html</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/mang/form_Tao_bang/form.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

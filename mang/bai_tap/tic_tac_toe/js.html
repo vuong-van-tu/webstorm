@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>aaa</title>
+</head>
+<style>
+    td {
+        width: 30px;
+        height: 30px;
+        text-align: center;
+    }
+</style>
+<body>
+<table id="board" class="abc" border="1px" cellspacing="0"></table>
+<script>
+     const VALUE_X = 'X';
+     const VALUE_O = 'O';
+    const VALUE_EMPTY = "";
+    const PLAYER_X = 1;
+    const PLAYER_O = 2;
+    let turn = 1;
+    function createBoard() {
+        let str = '';
+        for (let i = 0; i < 10; i++) {
+            str += '<tr>';
+            for (let j = 0; j < 10; j++) {
+                str += '<td  onclick="clickCell(this)"></td>';
+            }
+            str += '</tr>';
+        }
+        document.getElementById('board').innerHTML = str;
+    }
+    createBoard();
+    function clickCell(td) {
+        if (td.innerHTML == VALUE_EMPTY) {
+            if (turn == PLAYER_X) {
+                td.innerHTML = VALUE_X;
+                turn = PLAYER_O;
+            } else {
+                td.innerHTML = VALUE_O;
+                turn = PLAYER_X;
+            }
+        }
+    }
+
+</script>
+
+</body>
+</html>

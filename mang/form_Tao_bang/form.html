@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tic tac toe</title>
+</head>
+<style>
+    td{
+        width: 30px;
+        height: 30px;
+        text-align: center;
+    }
+</style>
+<body>
+
+<script>
+    let board = [];
+    let max = 10;
+    let turn = "x";
+    for (let i = 0; i < max; i++) {
+        board.push([]);
+        for (let j = 0; j < max; j++) {
+            board[i].push("");
+        }
+    }
+    document.write("<table border='1'>");
+    for (let i = 0; i < board.length; i++) {
+        document.write('<tr>');
+        for (let j = 0; j < board[i].length; j++) {
+            document.write('<td onclick="click_cell(' + i + ',' + j + ')" id="' + i + j + '" >');
+            document.write(board[j][j]);
+            document.write('<td>');
+        }
+        document.write('</tr>');
+    }
+    document.write("</table>");
+
+    function click_cell(i, j) {
+        document.getElementById("" + i + j).innerHTML = turn;
+        board[i][j] = turn;
+        if (turn == 'x') {
+            turn = 'o';
+        } else {
+            turn = 'x';
+
+        }
+    }
+
+</script>
+</body>
+</html>

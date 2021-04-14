@@ -1,0 +1,2 @@
+
+    let english= ['heelo','goodbye']
