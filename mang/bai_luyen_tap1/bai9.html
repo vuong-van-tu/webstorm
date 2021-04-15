@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai9</title>
+</head>
+<body>
+<script>
+    let array = [];
+    let a =+ prompt("Nhap a : ");
+    for (i = 0 ; i<a;i++){
+        let input =+ prompt("Nhap phan tu : ");
+        array.push(input);
+    }
+    let array1 = [];
+    let a1 =+ prompt("Nhap a1 : ");
+    for (i = 0 ; i<a1;i++){
+        let input =+ prompt("Nhap phan tu : ");
+        array1.push(input);
+    }
+    let array3=array.concat(array1);
+    document.write(array3);
+</script>
+</body>
+</html>

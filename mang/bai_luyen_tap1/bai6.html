@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai6</title>
+</head>
+<body>
+<SCRIPT>
+
+    let array = [];
+    let max =+ prompt("Nhập số phần tử của mảng :");
+    for (i=0;i<max;i++){
+        let a =+ prompt("Nhập giá trị phần tử : ");
+        array.push(a);
+    }
+    let v =+ prompt("Nhập vào v : ");
+    if(array.indexOf(v)==-1){
+        document.write("V is not in the array ");
+    }else {
+        document.write("V is in the array ");
+    }
+
+</SCRIPT>
+</body>
+</html>

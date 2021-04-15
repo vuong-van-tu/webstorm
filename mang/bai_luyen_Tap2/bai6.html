@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai6</title>
+</head>
+<body>
+<script>
+    let array = [];
+    let max = prompt("Nhập mảng kí tự : ");
+    for (i=0;i<max;i++){
+        let a = prompt("Nhập phần tử của mảng "+ i );
+        array.push(a);
+    }
+    document.write(array+"<br/>");
+
+    let str=array.join("");
+    array=str.split("");
+    for (i=0;i<array.length;i++){
+        if (array[i]==="-"){
+            array[i]="_";
+        }
+    }
+    array=array.join("");
+    // document.write(array+"<br/>");
+    // array = array.splice("-").join("_");
+    document.write(array);
+</script>
+</body>
+</html>

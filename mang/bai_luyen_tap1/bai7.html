@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai7</title>
+</head>
+<body>
+<script>
+    let array = [];
+    let a =+ prompt("Nhap a : ");
+    for (i = 0 ; i<a;i++){
+        let input =+ prompt("Nhap phan tu : ");
+        array.push(input);
+    }
+    let v =+ prompt("Nhập vào v : ");
+    if(array.indexOf(v)!==-1){
+        array.splice(array.indexOf(v),1);
+        array.push(0);
+    }else {
+        document.write("V is not in the array ");
+    }
+document.write(array);
+</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai2</title>
+</head>
+<body>
+<script>
+    let array = [];
+    let length = prompt("Nhap so phan tu co trong mang :");
+
+    for (i=0;i<length;i++){
+        let a = prompt("Nhap phan tu :");
+        array.push(a);
+    }
+    let max = array[0];
+    for (let i=1;i<array.length;i++){
+        if (array[i]>max){
+            max = array[i];
+        }
+    }
+    document.write("Gia tri lon nhat trong mang = "+max+"<Br/>");
+    document.write("Vi tri cua phan tu lon nhat la :"+array.indexOf(max));
+
+</script>
+</body>
+</html>

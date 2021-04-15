@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai1</title>
+</head>
+<body>
+
+<script>
+    let array = [];
+    let max = prompt("Nhap so phan tu");
+    let count = 0;
+    for (let i = 0; i<max;i++){
+        let a = prompt("Nhap phan tu trong mang :");
+        array.push(a);
+        if (array[i]>=10){
+            count++;
+        }
+    }
+    document.write("Tong so phan tu lon hon 10 vua nhap vao la : "+count);
+
+</script>
+</body>
+</html>
