@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai2</title>
+</head>
+<body>
+<script>
+    function footToMeter(foot){
+        let meter = foot * 0.305;
+        return meter;
+    }
+    function meterToFoot(meter) {
+        let foot = meter * 3.279;
+        return foot;
+    }
+    let meter = footToMeter(+prompt("Nhập foot : "));
+    let foot = meterToFoot(+prompt("Nhập meter : "));
+    alert("meter = "+meter);
+    alert("foot = "+foot);
+
+</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>doixung</title>
+</head>
+<body>
+<script>
+    let string = prompt('Enter a word');
+    let str = string.split("");
+    document.write(str);
+    alert(isPalindrome(str));
+    function isPalindrome(s) {
+        if (s.length <= 1)
+            return true;
+        if (s[0] != s[s.length - 1])
+            return false;
+        s.pop();
+        s.shift();
+        console.log(s);
+        return isPalindrome(s);
+    }
+</script>
+</body>
+</html>

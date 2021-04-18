@@ -2,24 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_Tap2/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_Tap2/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_Tap2/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_Tap2/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_Tap2/bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_Tap2/bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_tap1/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_tap1/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_tap1/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_tap1/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_tap1/bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_tap1/bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_tap1/bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_tap1/bai8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mang/bai_luyen_tap1/bai9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap1/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap1/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap1/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap1/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiTapham/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/baiTapham/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/doiXung/doiXung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/luyenTapHam/quanLySanPhamJS/quanLySanPhamJs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/thucHanhHam/thuchanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/thucHanhHam/thuchanh1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham/thucHanhHam/thuchanh2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mang/bai_tap/tic_tac_toe/js.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +90,7 @@
       <recent name="D:\webstorm\baitapbien\html" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webstorm\ham\thucHanhHam" />
       <recent name="D:\webstorm\bienvakieudulieu\html" />
     </key>
   </component>
@@ -138,6 +143,10 @@
       <workItem from="1618409490768" duration="6373000" />
       <workItem from="1618448657211" duration="10261000" />
       <workItem from="1618469553806" duration="13476000" />
+      <workItem from="1618500395784" duration="228000" />
+      <workItem from="1618534829527" duration="13835000" />
+      <workItem from="1618554787198" duration="8974000" />
+      <workItem from="1618736721662" duration="7225000" />
     </task>
     <servers />
   </component>
@@ -168,6 +177,11 @@
           <url>file://$PROJECT_DIR$/mang/form_Tao_bang/form.js</url>
           <line>25</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ham/luyenTapHam/baiLuyenTap2/bai3.html</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
