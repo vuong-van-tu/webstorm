@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hình chữ nhật</title>
+</head>
+<body>
+<canvas id="MyCanvas" height="450" width="900" style="border: 1px solid #d3d3d3;"></canvas>
+<script>
+    let hcn = document.getElementById('MyCanvas');
+    let ctx = hcn.getContext("2d");
+    ctx.beginPath();
+    let int = prompt("Nhập chiều dài :");
+    let int1 = prompt("Nhập chiều rộng : ");
+    ctx.rect(20,20,int,int1);
+    ctx.stroke();
+</script>
+</body>
+</html>

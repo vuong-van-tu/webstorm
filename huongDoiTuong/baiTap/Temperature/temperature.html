@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>temperature</title>
+</head>
+<body>
+<script>
+    // let Temperature = function (C) {
+    //     this.C = C;
+    //     this.getC= function () {
+    //         return this.C;
+    //     }
+    //     this.getF = function () {
+    //         return C + 273;
+    //     }
+    // };
+    // let temperature = new Temperature(3);
+    // let c = temperature.getC();
+    // let f = temperature.getF();
+    // alert("Độ C: "+c +"-> Độ F : "+f);
+
+    let Temperature = function (F) {
+        this.F = F;
+        this.getF= function () {
+            return this.F;
+        }
+        this.getC = function () {
+            return F - 273;
+        }
+    };
+    let temperature = new Temperature(prompt("Nhập độ F : "));
+    let f = temperature.getF();
+    let c = temperature.getC();
+    alert("Độ F: "+f +"-> Độ C : "+c);
+</script>
+</body>
+</html>
