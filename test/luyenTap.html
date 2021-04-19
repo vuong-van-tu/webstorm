@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>luyentap</title>
+</head>
+<body>
+<p>Add New Product</p>
+<input type="text" id="add">
+<button onclick="addNew()">Add</button>
+<p>Display All Product</p>
+<table id="displayarea" border="1px"></table>
+<div id="edit"></div>
+<script>
+    let ListProduct = ['Nokia 6', 'SamSung Galaxy', 'iPhone XSMax'];
+    displayall();
+
+    function displayall() {
+        let str = '<tr>\n' +
+            '<td>Product Name</td>' +
+            '<td></td>\n' +
+            '<td >' + ListProduct.length + 'Product</td>'
+        '<tr/>';
+        for (i = 0; i < ListProduct.length; i++) {
+            str += '<tr><td>' + ListProduct[i] + '</td>' +
+                '<td><button onclick="addProduct(' + i + ')">Edit</button></td>' +
+                '<td><button onclick="deleteProduct(' + i + ')">Delete</button></td>' +
+                '</tr>';
+        }
+        document.getElementById('displayarea').innerHTML = str;
+    }
+
+    function addNew() {
+        let productnew = document.getElementById('add').value;
+        document.getElementById('add').value = "";
+        ListProduct.push(productnew);
+        console.log(ListProduct);
+        displayall();
+    }
+
+    function addProduct(index) {
+        let str = '' ;
+        str = '<input type="text" id="editProduct" value="'+ListProduct[index]+ '">'+'<button onclick="save(' + index + ')">Save<button/> ';
+        document.getElementById('edit').innerHTML = str ;
+    }
+
+
+    function deleteProduct(index) {
+        ListProduct.splice(index, 1);
+        displayall();
+    }
+
+    function save(index) {
+        ListProduct[index]=document.getElementById('editProduct').value;
+        document.getElementById('edit').innerHTML="";
+        displayall();
+    }
+</script>
+</body>
+</html>

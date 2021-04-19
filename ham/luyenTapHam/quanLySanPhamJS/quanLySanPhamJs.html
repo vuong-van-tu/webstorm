@@ -5,53 +5,62 @@
     <title>Quản lý</title>
 </head>
 <body>
-        <p>Add Product </p>
-        <input type="text" id="add">
-        <BUTTON onclick="addProduct()">Add</BUTTON>
-        <p>Display All Product</p>
-        <table id="displayArea" border="1px">
-
-        </table>
-<div id="edit">
-
-</div>
+<p>Add Product </p>
+<input type="text" id="add">
+<BUTTON onclick="addProduct()">Add</BUTTON>
+<p>Display All Product</p>
+<table id="displayArea" border="1px"></table>
+<div id="edit"></div>
 <script>
-    let ListProduct = ['Sony Xperia','Samsung Galaxy','Nokia 6','Xiaomi Redmi Note 4','Apple iPhone 6s','Xiaomi Mi 5s Plus ','Apple iPhone 8 Plus','Fujitsu F-04E','Oppo A71' ];
+    let ListProduct = ['Sony Xperia', 'Samsung Galaxy', 'Nokia 6', 'Xiaomi Redmi Note 4', 'Apple iPhone 6s', 'Xiaomi Mi 5s Plus ', 'Apple iPhone 8 Plus', 'Fujitsu F-04E', 'Oppo A71'];
     displayall();
-    function displayall(){
-        let str = '<tr>\n '+
-            '<td>Product name<td/>'+
-            '<td></td>\n '+
-            '<td>'+ListProduct.length +'products</td>'+
+
+
+    function displayall() {
+        let str = '<tr>\n ' +
+            '<td>Product name<td/>' +
+            '<td></td>\n ' +
+            '<td>' + ListProduct.length + 'products</td>' +
             '<tr/>';
-        for (i = 0 ; i< ListProduct.length;i++){
-            str += '<tr><td>'+ListProduct[i]+'<td/>'+
-                '<td><button onclick="showFormEdit('+i+')">Edit</button></td>'+
-                '<td><button onclick="deleteProduct('+i+')">Delete</button></td>'
+        for (i = 0; i < ListProduct.length; i++) {
+            str += '<tr><td>' + ListProduct[i] + '<td/>' +
+                '<td><button onclick="showFormEdit(' + i + ')">Edit</button></td>' +
+                '<td><button onclick="deleteProduct(' + i + ')">Delete</button></td>' +
+                '<tr/>';
         }
-        document.getElementById('displayArea').innerHTML= str;
+        document.getElementById('displayArea').innerHTML = str;
     }
-    function addProduct(){
+
+
+    function addProduct() {
         let productName = document.getElementById('add').value;
         document.getElementById('add').value = "";
         ListProduct.push(productName);
         console.log(ListProduct);
         displayall();
     }
-    function deleteProduct(index){
-        ListProduct.splice(index,1);
+
+
+    function deleteProduct(index) {
+        ListProduct.splice(index, 1);
         displayall();
     }
-    function showFormEdit(index){
+
+
+    function showFormEdit(index) {
         let str = '';
-        str = '<input type="text" id="editProduct" value="'+ListProduct[index]+'"><button onclick="save('+index+')">Save</button>';
-        document.getElementById('edit').innerHTML = str ;
+        str = '<input type="text" id="editProduct" value="' + ListProduct[index] + '">' + '<button onclick="save(' + index + ')">Save</button>';
+        document.getElementById('edit').innerHTML = str;
     }
-    function save(index){
-        ListProduct[index]=document.getElementById('editProduct').value;
+
+
+    function save(index) {
+        ListProduct[index] = document.getElementById('editProduct').value;
         document.getElementById('edit').innerHTML = '';
         displayall();
     }
+
+
 </script>
 </body>
 </html>
