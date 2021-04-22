@@ -3,9 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <title>tudien</title>
-    <script src="tudien11.js"></script>
+
 </head>
 <body>
+<script>
 
+    let array = [1, 2, 3, 4, 5];
+    function checkMax(arr) {
+        let max = arr[0];
+        for (let i = 1; i < arr.length; i++) {
+            if (arr[i] > max) {
+                max = arr[i];
+            }
+        }
+        return max;
+    }
+    function checkMin(arr) {
+        let min = arr[0];
+        for (let i = 1; i < arr.length; i++) {
+            if (arr[i] < min) {
+                min = arr[i];
+            }
+        }
+        return min;
+    }
+    function checkAver(arr) {
+        let sum = 0;
+        let aver
+        for (let i = 0; i < arr.length; i++) {
+            sum += arr[i];
+        }
+        aver = sum / arr.length;
+        return aver;
+    }
+    function checkArr(arr) {
+        let max = checkMax(arr);
+        let min = checkMin(arr);
+        let aver = checkAver(arr);
+        let newArray = [];
+        newArray.push(max);
+        newArray.push(min);
+        newArray.push(aver);
+        return newArray;
+    }
+    let a = checkArr(array);
+    alert(a);
+
+</script>
 </body>
 </html>

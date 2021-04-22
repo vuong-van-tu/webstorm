@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function Mobile(id,name) {
+        this.battery=100;
+        this.st = false;
+        this.id=id;
+        this.message = [];
+        this.name=name;
+
+        this.setMessage=function (message) {
+            this.battery--;
+            if (this.st===true){
+                this.message.push(message);
+            }else if (this.st===false){
+                alert("Chua bat may")
+            }
+        }
+        this.getMessage=function (){
+            this.battery--;
+            if (this.st===true){
+                return this.message;
+            }else if (this.st===false){
+                alert("Chua bat may");
+            }
+        }
+        this.sendMessage=function (message, mobile){
+            this.battery--;
+            if (this.st===true){
+                mobile.setMessage(message);
+            }else if(this.st===false){
+                alert("Chua bat may");
+            }
+        }
+        this.numSt=function () {
+            this.st = !this.st;
+        }
+    }
+    let mobile1 = new Mobile(1,1);
+    let mobile2 = new Mobile(2,2);
+    mobile2.numSt();
+    mobile1.numSt();
+    alert(mobile2.st);
+    alert(mobile1.st);
+    mobile2.sendMessage("hello",mobile1);
+    document.write(mobile1.getMessage());
+</script>
+</body>
+</html>

@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/HCN/hinhChuNhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/Temperature/temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1/Car_Down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1/Car_Left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1/Car_Right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1/Car_Up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1/mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1/xe_o_to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1/xe_o_to.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/Mobile/Mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/Mobile/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/xe_o_/xe_o_to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/xe_o_/xeoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiemTra/test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/baitestOOP.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham/luyenTapHam/quanLySanPhamJS/quanLySanPhamJs.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham/luyenTapHam/quanLySanPhamJS/quanLySanPhamJs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/testtudien.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/testtudien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tudien11.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/tudien11.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +34,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="XHTML File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -55,7 +70,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/baitapbien/html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -68,6 +83,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webstorm\Test1" />
       <recent name="D:\webstorm\baitapbien\html" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -128,7 +144,14 @@
       <workItem from="1618534829527" duration="13835000" />
       <workItem from="1618554787198" duration="8974000" />
       <workItem from="1618736721662" duration="12408000" />
-      <workItem from="1618793975020" duration="14586000" />
+      <workItem from="1618793975020" duration="17178000" />
+      <workItem from="1618829916483" duration="2222000" />
+      <workItem from="1618845215977" duration="3595000" />
+      <workItem from="1618882495783" duration="17284000" />
+      <workItem from="1618933452739" duration="1848000" />
+      <workItem from="1618936414820" duration="609000" />
+      <workItem from="1618995130434" duration="2257000" />
+      <workItem from="1619054787942" duration="691000" />
     </task>
     <servers />
   </component>
