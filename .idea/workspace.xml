@@ -2,23 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11a7cef-ef7e-4a1d-aa23-f8df48eb07ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test1/Car_Down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/Car_Left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/Car_Right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/Car_Up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/mobile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/xe_o_to.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1/xe_o_to.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/Mobile/Mobile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/Mobile/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/xe_o_/xe_o_to.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/xe_o_/xeoto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiemTra/test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/baitestOOP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai_o_to/chuongNgoaiVat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huongDoiTuong/moTaDenPin/denPin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huongDoiTuong/moTaDenPin/denPin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bai5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test5.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ham/luyenTapHam/quanLySanPhamJS/quanLySanPhamJs.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham/luyenTapHam/quanLySanPhamJS/quanLySanPhamJs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testtudien.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/testtudien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tudien11.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/tudien11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1/Car_Down.png" beforeDir="false" afterPath="$PROJECT_DIR$/bai_o_to/Car_Down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1/Car_Left.png" beforeDir="false" afterPath="$PROJECT_DIR$/bai_o_to/Car_Left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1/Car_Right.png" beforeDir="false" afterPath="$PROJECT_DIR$/bai_o_to/Car_Right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1/Car_Up.png" beforeDir="false" afterPath="$PROJECT_DIR$/bai_o_to/Car_Up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1/mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/huongDoiTuong/thucHanh/mobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1/xe_o_to.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai_o_to/xe_o_to.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1/xe_o_to.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai_o_to/diChuyenOto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huongDoiTuong/baiTap/xe_o_/xe_o_to.html" beforeDir="false" afterPath="$PROJECT_DIR$/huongDoiTuong/baiTap/xe_o_/xe_o_to.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +37,8 @@
         <option value="CSS File" />
         <option value="XHTML File" />
         <option value="tsconfig.json" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -70,7 +71,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -87,6 +88,8 @@
       <recent name="D:\webstorm\baitapbien\html" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webstorm\huongDoiTuong\thucHanh" />
+      <recent name="D:\webstorm\huongDoiTuong" />
       <recent name="D:\webstorm\ham\thucHanhHam" />
       <recent name="D:\webstorm\bienvakieudulieu\html" />
     </key>
@@ -151,7 +154,12 @@
       <workItem from="1618933452739" duration="1848000" />
       <workItem from="1618936414820" duration="609000" />
       <workItem from="1618995130434" duration="2257000" />
-      <workItem from="1619054787942" duration="691000" />
+      <workItem from="1619054787942" duration="9750000" />
+      <workItem from="1619073334656" duration="3111000" />
+      <workItem from="1619083251621" duration="870000" />
+      <workItem from="1619084288946" duration="132000" />
+      <workItem from="1619084432595" duration="9000" />
+      <workItem from="1619144756239" duration="2899000" />
     </task>
     <servers />
   </component>
